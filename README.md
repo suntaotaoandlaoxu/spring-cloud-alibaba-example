@@ -6,3 +6,5 @@ spring-cloud-alibaba框架学习，demo
     3、基于nacos的gateway网关  
     4、feign微服务之间的调用  
     5、基于nacos的seata分布式事务解决  
+-------------------------------------------  
+    6、sleuth-zipkin链路追踪

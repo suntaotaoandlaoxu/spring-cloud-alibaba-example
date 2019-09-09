@@ -10,3 +10,5 @@ spring-cloud-alibaba框架学习，demo
     #更新与20190906
     6、sleuth-zipkin链路追踪
     #更新于20190907
+    7、集成sentinel限流、降级、熔断功能
+    #更新于20190909
